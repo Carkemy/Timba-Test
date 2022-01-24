@@ -1,0 +1,11 @@
+﻿  Main.cpp
+E:\source\repos\Timba Test\Timba Test\Main.cpp(108,13): warning C4101: 'By': variable local sin referencia
+E:\source\repos\Timba Test\Timba Test\Main.cpp(107,17): warning C4101: 'Cx': variable local sin referencia
+E:\source\repos\Timba Test\Timba Test\Main.cpp(108,9): warning C4101: 'Ay': variable local sin referencia
+E:\source\repos\Timba Test\Timba Test\Main.cpp(107,13): warning C4101: 'Bx': variable local sin referencia
+E:\source\repos\Timba Test\Timba Test\Main.cpp(107,9): warning C4101: 'Ax': variable local sin referencia
+E:\source\repos\Timba Test\Timba Test\Main.cpp(108,17): warning C4101: 'Cy': variable local sin referencia
+E:\source\repos\Timba Test\Timba Test\Main.cpp(317,36): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
+E:\source\repos\Timba Test\Timba Test\Main.cpp(318,36): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+E:\source\repos\Timba Test\Timba Test\Main.cpp(319,22): warning C4305: '-=': truncamiento de 'double' a 'float'
+  Timba Test.vcxproj -> E:\source\repos\Timba Test\x64\Debug\Timba Test.exe
